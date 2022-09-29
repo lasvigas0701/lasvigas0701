@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+ 💬 I'm Wei-Chia (Viga) Chang
+ 
+ 📖 Currently studying in YZU CSE (Computer Science & Engineering)
+ 
+ 📫 My personal Email: weichia0701@gmail.com
+ 
+ 🤩 My Facebook: https://www.facebook.com/profile.php?id=100000405129490
+ 
+ 😉 My Instagram: @las.vigas (https://instagram.com/_las.vigas?igshid=YmMyMTA2M2Y=)
+
+
+ ⚾🏸🏓🎬🎧👩‍💻🎭
+
 <!--
 **WeiChia-Chang/WeiChia-Chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
