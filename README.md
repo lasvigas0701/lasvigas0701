@@ -1,8 +1,10 @@
 ### Hi there 👋
 
- 💬 I'm Wei-Chia (Viga) Chang
+ 💬 I'm Wei-Chia Chang (Viga Chang)
  
  📖 Currently studying in YZU CSE (Computer Science & Engineering)
+ 
+ 🌱 Mostly using c++
  
  📫 My personal Email: weichia0701@gmail.com
  
