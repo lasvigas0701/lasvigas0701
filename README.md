@@ -4,7 +4,7 @@
  
  📖 Currently studying in YZU CSE (Computer Science & Engineering)
  
- 🌱 Mostly using c++
+ 🌱 Mostly using c++, learning python and javascript
  
  📫 My personal Email: weichia0701@gmail.com
  
