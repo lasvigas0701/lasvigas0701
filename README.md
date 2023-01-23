@@ -14,8 +14,6 @@
 
 
  ⚾🏸🏓🎬🎧👩‍💻🎭
- 
- [![weichia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasviga0701)](https://github.com/lasvigas0701/github-readme-stats)
 
 <!--
 **WeiChia-Chang/WeiChia-Chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
