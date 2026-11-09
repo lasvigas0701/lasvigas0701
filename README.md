@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wei-Chia Chang (Viga Chang)</h1>
 <h3 align="center">A CS student from Taiwan</h3>
 
-- 📖 I’m currently studying in **YZU CSE (Computer Science & Engineering)**
+- 📖 I’m currently a M.S student in NYCU
 
 - 📫 My personal Email: **weichia0701@gmail.com**
 
